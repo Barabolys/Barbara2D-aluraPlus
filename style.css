@@ -1,0 +1,11 @@
+.botao {
+    background-color: rgb(118, 201, 183);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.titulo{
+    margin: 0 0 100px 0;
+}
